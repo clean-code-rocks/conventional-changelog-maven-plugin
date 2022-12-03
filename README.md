@@ -6,6 +6,9 @@
 [![License: GPL v3][Licence - badge]][Licence - link]
 [![Fossa][Fossa - badge]][Fossa - link]
 
+## Requirement
+
+Java 8+
 
 [Maven Central - badge]: https://img.shields.io/maven-central/v/rocks.cleancode/conventional-changelog-maven-plugin?color=brightgreen
 [Maven Central - link]: https://search.maven.org/artifact/rocks.cleancode/conventional-changelog-maven-plugin
